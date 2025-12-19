@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Vajon az ingatlanárak kicsúsznak az irányítás alól az EU-ban 2024-ben?",
+  "subtitle": "Az EU-ban a lakásárak átlagosan 53%-kal folyamatosan emelkedtek 2015 és 2024 között.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Lakásárindex (2015 = 100) az egyes EU-országokra vonatkozóan. Málta és Magyarország adatai előzetesek. Görögország esetében nem áll rendelkezésre adat.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
