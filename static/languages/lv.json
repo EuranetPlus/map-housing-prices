@@ -1,13 +1,11 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Vai mājokļu cenas 2024. gadā visā ES piedzīvos nekontrolējamu pieaugumu?",
+  "subtitle": "Mājokļu cenas ES no 2015. līdz 2024. gadam pastāvīgi pieauga par vidēji 53 %.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Mājokļu cenu indekss (2015. gads = 100) katrai ES valstij. Maltas un Ungārijas vērtības ir provizoriskas. Par Grieķiju dati nav sniegti.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2024)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
